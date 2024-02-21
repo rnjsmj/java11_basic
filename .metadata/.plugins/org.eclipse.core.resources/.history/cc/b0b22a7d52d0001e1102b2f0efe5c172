@@ -1,0 +1,21 @@
+package org.kh.site2;
+//대입연산 2
+public class Operation7 {
+
+	public static void main(String[] args) {
+		int a = 20;
+		int b = 15;
+		int tmp;
+		
+		a +=b;
+		b -=a;
+		
+		//a<->b
+		tmp = a;
+		a = b;
+		b = tmp;
+		System.out.println("a="+a+"\nb="+b);
+
+	}
+
+}
