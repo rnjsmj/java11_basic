@@ -18,7 +18,17 @@ public class Test3 {
 		m2.setAddress("서울시 금천구");
 		m2.setHobby("운동");
 		
-		//List<Member> list = new ArrayList<Member>();
+		List<Member> list = new ArrayList<Member>();
+		
+		list.add(m1);
+		list.add(m2);
+		
+		for(Member mem : list) {
+			System.out.println("이름 : " + mem.getName());
+			System.out.println("나이 : " + mem.getAge());
+			System.out.println("주소 : " + mem.getAddress());
+			System.out.println("취미 : " + mem.getHobby());
+		}
 
 	}
 

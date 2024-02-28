@@ -13,7 +13,7 @@ public class BoardExam {
 		}
 		System.out.println("번호\t제목\t작성자\t작성일");
 		for(Board board : boardList) {
-			System.out.println(board.getBno()+"\t"+board.getTitle()+"\t"+board.getUname()+"\t"+board.getResdate());
+			//System.out.println(board.getBno()+"\t"+board.getTitle()+"\t"+board.getUname()+"\t"+board.getResdate());
 		}
 	}
 
