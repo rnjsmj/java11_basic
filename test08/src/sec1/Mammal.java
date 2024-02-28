@@ -15,7 +15,7 @@ public class Mammal extends Animal {
 	@Override
 	public String print() {
 		//return "Mammal [name=" + name + ", spine=" + spine + ", leg=" + leg + "]";
-		return "Mammal [leg=" + leg + "]";
+		return "Mammal [leg=" + leg + ", name=" + super.getName() + "]";
 	}
 	
 }

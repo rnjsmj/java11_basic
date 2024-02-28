@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="sec3.People"/>
+    <fullyQualifiedTypeName name="sec2.Animal"/>
+    <fullyQualifiedTypeName name="sec2.Mammal"/>
+    <fullyQualifiedTypeName name="sec2.Birds"/>
+</qualifiedTypeNameHistroy>
