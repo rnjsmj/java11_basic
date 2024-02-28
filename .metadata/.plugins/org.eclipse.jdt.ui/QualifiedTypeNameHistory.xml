@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="sec2.Animal"/>
     <fullyQualifiedTypeName name="sec2.Mammal"/>
     <fullyQualifiedTypeName name="sec2.Birds"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
